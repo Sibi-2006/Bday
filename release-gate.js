@@ -14,7 +14,7 @@
   // --- CONFIGURATION ---
   // Set to Jan 4, 2026, 20:59 local time
   // MONTHS ARE 0-INDEXED (0 = Jan, 1 = Feb, etc.)
-  const TARGET = new Date(Date.UTC(2026, 0, 10, 23, 40, 0));
+  const TARGET = new Date(Date.UTC(2026, 0, 12, 23, 40, 0));
   const REVEAL_KEY = 'project_revealed';
 
   function qParam(name) {
